@@ -1,7 +1,7 @@
 # Predicting and simulating loan defaults and losses using neural networks
 Final Project in "Financial Risk Analytics" at Stanford. Predicting default for small business loans backed by the US Small Business Administration (SBA)
 
-In this repository you can find the code for our Neural Network as well as the final paper that goes in to more detail explaning our methodology and findings for this project. Unfortunately, because of the size of the dataset and pre-processing done in R, the results can't be replicted by simply running the code. 
+In this repository you can find the code for our Neural Network as well as the final paper that goes in to more detail explaning our methodology and findings for this project. Unfortunately, because of the size of the dataset and pre-processing done in R, the results can't be replicted by running the code from this repository without putting in significant work. 
 
 # Introduction
 The credit industry enables economic activity and fuels economic growth, and is essential to the modern economy. However, lenders will not want to lend money when they do not understand risk; hence, being able to quantify the chance and loss of default is key for creditors to be willing to make loans. Traditional approaches may have relied on heuristic reasoning, coupled with simpler mathematical models, such as linear regression, to assess such risks. It may, however, be difficult to capture such complex phenomena with simple models, and the computation can often be laborious. The deluge of modern data and the development of machine learning techniques offers new techniques for understanding credit risk.
