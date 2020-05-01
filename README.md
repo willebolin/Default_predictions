@@ -1,5 +1,5 @@
 # Predicting and simulating loan defaults and losses using neural networks
-Final Project for Stanford class "Financial Risk Analytics". Predicting default for small business loans backed by the US Small Business Administration (SBA)
+Final Project in "Financial Risk Analytics" at Stanford. Predicting default for small business loans backed by the US Small Business Administration (SBA)
 
 In this repository you can find the code for our Neural Network as well as the final paper that goes in to more detail explaning our methodology and findings for this project. 
 
